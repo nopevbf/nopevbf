@@ -18,26 +18,30 @@
 
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+## <img src="https://media.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif" width="40"> **Workspace Spec:**
+<div align="center"><img src="https://img.shields.io/badge/intel-Core%20i5%208300H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />&nbsp;&nbsp;<img src = "https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>&nbsp;&nbsp;<img src = "https://img.shields.io/badge/asus-laptop-E2231A?style=for-the-badge&logo=asus&logoColor=white"/></div>
+
 ## <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif" width="40"> **Connect with me:** ️
+
 <p align="center">
 <a href="https://www.youtube.com/c/firajitio" target="_blank">
 <img src=https://img.shields.io/badge/youtube-D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp;
 <a href="https://twitter.com/firmannjay" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/nopevbf/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp;
 <a href="https://www.facebook.com/mihawk22/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp;
 <a href="https://instagram.com/firajitio" target="_blank">
 <img src=https://img.shields.io/badge/instagram-C71585.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
+</a> &nbsp;
 <a href = "mailto:firajitio@gmail.com" target = "_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a>&nbsp;
 </p>
 
 <div align = "center">
