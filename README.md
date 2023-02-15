@@ -24,7 +24,7 @@
 ## <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif" width="40"> **Connect with me:** ️
 
 <p align="center">
-<a href="https://www.youtube.com/c/firajitio" target="_blank">
+<a href="https://www.youtube.com/c/firajitio?sub_confirmation=1" target="_blank">
 <img src=https://img.shields.io/badge/youtube-D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>&nbsp;
 <a href="https://twitter.com/firmannjay" target="_blank">
