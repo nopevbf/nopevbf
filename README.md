@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8a2be2&height=240&section=header&text=nopevbf%20%2F%3E&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%24%20whoami%20%E2%86%92%20QA%20Engineer%20%2B%20AI%20Eval%20Engineer%20(loading...)&descAlignY=65&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FF9C&background=0D111700&center=true&vCenter=true&width=720&lines=%24+sudo+break+things+--before-production+🐞;%24+pip+install+eval-mindset+--upgrade+🤖;%24+while+(alive)+%7B+test()%3B+automate()%3B+evaluate()%3B+%7D;%3E+status%3A+ngulik+AI+Eval+Engineering+biar+makin+sakti+⚡" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%24+sudo+break+things+before+production+%F0%9F%90%9E;%24+pip+install+eval-mindset+%F0%9F%A4%96;%24+test+%26%26+automate+%26%26+evaluate;%24+test+%26%26+automate+%26%26+evaluate)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 ![Learning](https://img.shields.io/badge/NOW%20LEARNING-AI%20Eval%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
 ![Experience](https://img.shields.io/badge/XP-1.5%2B%20YEARS-00ff9c?style=for-the-badge&labelColor=0d1117)
