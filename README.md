@@ -1,64 +1,157 @@
-<h1 align="center">Hi 👋, I'm <strike>Baymax</strike> Firman</h1>
-<h3 align="center">A passionate Fullstack Developer, but currently in learning Frontend and QA 😀</h3>
+<div align="center">
 
-<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8a2be2&height=240&section=header&text=nopevbf%20%2F%3E&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%24%20whoami%20%E2%86%92%20QA%20Engineer%20%2B%20AI%20Eval%20Engineer%20(loading...)&descAlignY=65&descSize=18" width="100%"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FF9C&background=0D111700&center=true&vCenter=true&width=720&lines=%24+sudo+break+things+--before-production+🐞;%24+pip+install+eval-mindset+--upgrade+🤖;%24+while+(alive)+%7B+test()%3B+automate()%3B+evaluate()%3B+%7D;%3E+status%3A+ngulik+AI+Eval+Engineering+biar+makin+sakti+⚡" alt="Typing SVG" />
+</a>
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<br/><br/>
 
-- 🔭 I’m currently working on **Coding Skills**
-- 🌱 I’m currently learning **Frontend and QA**
-
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nopevbf&theme=radical&hide_border=true"/>
-</p>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
-
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-## <img src="https://media.giphy.com/media/tVhJw24Gv8FGGlnjDN/giphy.gif" width="40"> **Workspace Spec:**
-<div align="center"><img src="https://img.shields.io/badge/intel-Core%20i5%208300H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />&nbsp;&nbsp;<img src = "https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>&nbsp;&nbsp;<img src = "https://img.shields.io/badge/asus-laptop-E2231A?style=for-the-badge&logo=asus&logoColor=white"/></div>
-
-## <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif" width="40"> **Connect with me:** ️
-
-<p align="center">
-<a href="https://www.youtube.com/c/firajitio?sub_confirmation=1" target="_blank">
-<img src=https://img.shields.io/badge/youtube-D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://twitter.com/firmannjay" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/nopevbf/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://www.facebook.com/mihawk22/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>&nbsp;
-<a href="https://instagram.com/firajitio" target="_blank">
-<img src=https://img.shields.io/badge/instagram-C71585.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> &nbsp;
-<a href = "mailto:firajitio@gmail.com" target = "_blank">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-</p>
-
-<div align = "center">
- 
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{nopevbf}/count.svg)
+![Learning](https://img.shields.io/badge/NOW%20LEARNING-AI%20Eval%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
+![Experience](https://img.shields.io/badge/XP-1.5%2B%20YEARS-00ff9c?style=for-the-badge&labelColor=0d1117)
+![Domain](https://img.shields.io/badge/DOMAIN-PropertyTech%20%7C%20Fintech-ff9f1c?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/SERVER-Jawa%20Tengah%2C%20ID-ff4757?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
 
 </div>
 
-<p align = 'center' width="50"> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+---
 
-<!--- 
-[![Firman's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nopevbf&theme=xcode)](https://github.com/nopevbf)
-<p align = 'center'><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nopevbf&theme=dracula&hide_border=true" /></p>
---->
+## 🖥️ `cat about_me.md`
 
-<div align = "center">
-<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=nopevbf&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
-<div><br><br><a href="https://www.buymeacoffee.com/nopevbf"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nopevbf" /></a></div><br><br>
+```python
+class Firman:
+    role      = "QA Engineer"
+    domains   = ["PropertyTech", "Fintech"]
+    superpower = "nemuin bug sebelum user nangis"
+    side_quest = "AI Eval Engineering 🤖"
+    status    = "ngulik, ngetes, ngulik lagi"
+
+    def mindset(self):
+        # test case -> eval case
+        # bug report -> error taxonomy
+        # "kayaknya udah bener" -> "buktiin pake data"
+        return "If it can be tested, it can be evaluated."
+```
+
+Gue QA yang lagi **upgrade skill ke AI Evaluation**. Kalau QA biasa nanya *"fitur ini jalan nggak?"*, AI Eval nanya *"jawaban model ini bener, aman, dan konsisten nggak?"*. Sama-sama seru, sama-sama harus teliti.
+
+- 🤖 **Lagi dalem fase grinding:** LLM evaluation, rubric design, annotation, error analysis
+- 🧪 **Daily driver:** manual + automation testing, API testing, bug hunting
+- ⚙️ **Lagi didalemin:** test automation + CI/CD biar pipeline-nya anti jebol
+- 💬 **Ajak ngobrol soal:** *test strategy, bug reporting, LLM eval, bandingin output model*
+
+<br/>
+
+---
+
+## 🛠️ `ls ./tech_stack`
+
+**`/qa_automation`**
+
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-EE376A?style=flat-square&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Katalon-1DB4B3?style=flat-square&logo=katalon&logoColor=white" />
+</p>
+
+**`/api_and_performance`**
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
+</p>
+
+**`/ai_eval  # in progress...`**
+
+<p>
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rubric%20Design-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Error%20Analysis-A29BFE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Testing-0984E3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model%20Comparison-00B894?style=flat-square" />
+</p>
+
+**`/languages_and_frameworks`**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+## 📡 `git log --stats`
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats-mu-dusky.vercel.app/api?username=nopevbf&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nopevbf&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=nopevbf&layout=compact&theme=radical&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🚀 `./run featured_projects.sh`
+
+| 📦 Repo | 💡 Isinya |
+|---|---|
+| 🧾 [**qaportfolio**](https://github.com/nopevbf/qaportfolio) | Test plan, test case, bug report, sampai automation script |
+| 🤖 **mr-review-bot** | Review merge request otomatis pakai Gemini API + GitHub Actions. Bot yang nge-review, manusia tinggal approve ☕ |
+| 🌾 **TaniVibe** | Early warning system buat petani Indonesia |
+
+---
+
+## ⚡ `cat status.json`
+
+```json
+{
+  "role": "QA Engineer (Manual + Automation)",
+  "currently_learning": "AI Eval Engineering",
+  "domains": ["PropertyTech", "Fintech"],
+  "fuel": ["kopi ☕", "bug report", "rasa penasaran"],
+  "weakness": "gatel kalau lihat bug belum ketemu",
+  "open_to": ["QA roles", "AI evaluation projects", "kolaborasi seru"],
+  "ping_me": "kapan aja, asal bukan pas lagi debugging 😎"
+}
+```
+
+---
+
+## 🌐 `ping connect`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nopevbf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:firajitio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/firmannjay" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/firajitio" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/firajitio?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.facebook.com/mihawk22/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/nopevbf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee" /></a>
+
+<br/><br/>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=nopevbf&label=SESSIONS&countColor=%2300ff9c&style=flat-square)
+
+<sub>`// bug ditemukan: 0 | kopi dikonsumsi: ∞ | build status: passing ✅`</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8a2be2&height=100&section=footer" width="100%"/>
